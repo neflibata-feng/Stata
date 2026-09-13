@@ -7,7 +7,6 @@
 1. 在右侧Release里面下载安装包，双击打开
 
 2. 进入激活
-
 - Stata 18 MP序列号：
   - Name:随意填
   - Organization:随意填
@@ -15,8 +14,8 @@
   - Code:k6n0 8aca 1uL4 08r5 Lw7i uwz2 47ds
   - Authorization:d83y
 
-3.务必关闭自动更新（会有提醒）
+3. 接下来你就可以免费使用付费版本了
 
-4. 接下来你就可以免费使用付费版本了
+> 务必关闭自动更新（会有提醒）
 
 # 欢迎follow me
