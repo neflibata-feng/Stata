@@ -12,8 +12,11 @@
   - Name:随意填
   - Organization:随意填
   - Serial number:501806366047
-  - Code:k6n08aca 1uL408r5 Lw7i uwz2 47ds
+  - Code:k6n0 8aca 1uL4 08r5 Lw7i uwz2 47ds
   - Authorization:d83y
 
-3. 接下来你就可以使用付费版了
+3.务必关闭自动更新（会有提醒）
+
+4. 接下来你就可以免费使用付费版本了
+
 # 欢迎follow me
